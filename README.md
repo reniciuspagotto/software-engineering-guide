@@ -35,3 +35,5 @@ Here is a list of diverse content related to Software Engineering, covering Clou
 [Thoughtworks Radar](https://www.thoughtworks.com/en-br/radar)
 
 [ByteByteGo](https://www.youtube.com/@ByteByteGo)
+
+[CSharp TV](https://www.youtube.com/@CSharpDotTV)
