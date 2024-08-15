@@ -37,3 +37,5 @@ Here is a list of diverse content related to Software Engineering, covering Clou
 [ByteByteGo](https://www.youtube.com/@ByteByteGo)
 
 [CSharp TV](https://www.youtube.com/@CSharpDotTV)
+
+[kodekloud](https://kodekloud.com/blog/)
