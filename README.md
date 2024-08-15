@@ -39,3 +39,5 @@ Here is a list of diverse content related to Software Engineering, covering Clou
 [CSharp TV](https://www.youtube.com/@CSharpDotTV)
 
 [kodekloud](https://kodekloud.com/blog/)
+
+[LinkedIn Engineering Blog](https://www.linkedin.com/blog/engineering)
