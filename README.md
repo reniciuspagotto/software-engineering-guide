@@ -41,3 +41,7 @@ Here is a list of diverse content related to Software Engineering, covering Clou
 [kodekloud](https://kodekloud.com/blog/)
 
 [LinkedIn Engineering Blog](https://www.linkedin.com/blog/engineering)
+
+[System Design Classroom](https://systemdesignclassroom.substack.com)
+
+[Brain Bytes](https://codingwithroby.substack.com/)
