@@ -1,14 +1,13 @@
 # Software Engineering Contents
 
-Here is a list of diverse content related to Software Engineering, covering Cloud, DevOps, and Development topics, with some specifically focusing on Microsoft Technologies. Additionally, some pages offer newsletters for further updates and insights.
+Here is a collection of diverse content related to Software Engineering, featuring topics on Cloud, DevOps, and Development, with a special emphasis on Microsoft Technologies. Several pages also offer newsletters for regular updates and in-depth insights.
+
+
+## Systems Design | Coding
 
 [Software Architecture Monday](https://www.youtube.com/@markrichards5014/videos)
 
-[Continuous Delivery](https://www.youtube.com/@ContinuousDelivery/videos)
-
 [Milan Jovanović](https://www.youtube.com/@MilanJovanovicTech)
-
-[Platform Engineering](https://www.youtube.com/@PlatformEngineering)
 
 [NDC Conferences](https://www.youtube.com/@NDC/videos)
 
@@ -16,13 +15,9 @@ Here is a list of diverse content related to Software Engineering, covering Clou
 
 [High Scalability](https://highscalability.com)
 
-[Build5Nines](https://build5nines.com)
-
 [InfoQ](https://www.infoq.com)
 
 [Code Opinion](https://www.youtube.com/@CodeOpinion)
-
-[Tech World With Nana](https://www.youtube.com/@TechWorldwithNana)
 
 [Tim Corey](https://www.youtube.com/@IAmTimCorey/videos)
 
@@ -38,10 +33,21 @@ Here is a list of diverse content related to Software Engineering, covering Clou
 
 [CSharp TV](https://www.youtube.com/@CSharpDotTV)
 
-[kodekloud](https://kodekloud.com/blog/)
-
 [LinkedIn Engineering Blog](https://www.linkedin.com/blog/engineering)
 
 [System Design Classroom](https://systemdesignclassroom.substack.com)
 
 [Brain Bytes](https://codingwithroby.substack.com/)
+
+
+## Infrastructure | DevOps | Cloud
+
+[Continuous Delivery](https://www.youtube.com/@ContinuousDelivery/videos)
+
+[Platform Engineering](https://www.youtube.com/@PlatformEngineering)
+
+[Build5Nines](https://build5nines.com)
+
+[Tech World With Nana](https://www.youtube.com/@TechWorldwithNana)
+
+[kodekloud](https://kodekloud.com/blog/)
